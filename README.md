@@ -8,7 +8,6 @@ Este é um projeto simples de um **Gerenciador de Despesas** utilizando **JavaSc
 - Adição de novas despesas com descrição, categoria e valor.
 - Formatação automática do campo de valor para o formato brasileiro (R$).
 - Exibição dinâmica da lista de despesas com ícones, descrição e valor.
-- Cálculo do total de despesas e quantidade.
 - Remoção de despesas individuais da lista.
 
 ---
